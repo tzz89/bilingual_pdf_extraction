@@ -9,5 +9,6 @@ sentencepiece
 notebook
 pandas
 sentence-transformers
+ipywidgets
 #conda install -c conda-forge implicit we need this to overcome the C++ distribution issue
 #conda install -c esri fasttext
