@@ -1,0 +1,13 @@
+pdf2image
+easyocr
+transformers
+torch
+torchvision
+transformers
+pdfplumber
+sentencepiece
+notebook
+pandas
+sentence-transformers
+#conda install -c conda-forge implicit we need this to overcome the C++ distribution issue
+#conda install -c esri fasttext
